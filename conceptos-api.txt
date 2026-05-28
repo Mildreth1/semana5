@@ -1,0 +1,5 @@
+Que hace esta ruta:
+Esta ruta de tipo POST lo que hace es recibir un paquete de datos o un texto enviado por un usuario desde un formulario y devuelve una respuesta en formato JSON confirmando que el reporte fue recibido con exito.
+
+Para que serviria en una aplicacion comunitaria:
+En el barrio serviria muchisimo para que los vecinos puedan enviar quejas, reportar un daño en una tuberia, mandar una alerta de seguridad o avisar sobre una bombilla de la calle dañada sin necesidad de hacer una carta fisica.
